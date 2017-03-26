@@ -1,6 +1,7 @@
 # GEOG465 Final Project: "High Schools and Their Closest Grocery Stores"
 
 # Files
+* [Web Map](http://students.washington.edu/ngm8/Geog465_FinalProject_MeghanNg.html)
 * [HTML Code](https://github.com/ngm8/GEOG465-Final-Project/blob/master/Geog465_FinalProject_MeghanNg.html)
 * [JavaScript Code](https://github.com/ngm8/GEOG465-Final-Project/blob/master/Geog465_FinalProject_MeghanNg.js)
 
