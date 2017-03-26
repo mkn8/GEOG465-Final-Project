@@ -1,8 +1,8 @@
 # GEOG465 Final Project: "High Schools and Their Closest Grocery Stores"
 
 # Files
-[HTML Code](https://github.com/ngm8/GEOG465-Final-Project/blob/master/Geog465_FinalProject_MeghanNg.html)
-[JavaScript Code](https://github.com/ngm8/GEOG465-Final-Project/blob/master/Geog465_FinalProject_MeghanNg.js)
+* [HTML Code](https://github.com/ngm8/GEOG465-Final-Project/blob/master/Geog465_FinalProject_MeghanNg.html)
+* [JavaScript Code](https://github.com/ngm8/GEOG465-Final-Project/blob/master/Geog465_FinalProject_MeghanNg.js)
 
 # Overview and Reflection
 My map displays all the high schools within the Bellevue and Issaquah school districts, the grocery stores that are closest to each high school, and “linked” lines between the high schools and their closest grocery stores. Its intended audience is parents who are on a time crunch and need to do some quick grocery shopping before or after picking up their kids from school, as well as students who would like to do some shopping themselves or grab a snack after school is out.
