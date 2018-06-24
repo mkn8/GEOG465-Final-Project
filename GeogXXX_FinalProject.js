@@ -1,7 +1,7 @@
 /*
-Map Created by Meghan Ng
+Map Created by
 Final Project
-Geog 465
+Geog XXX
 14 March 2017
 */
 
